@@ -54,6 +54,10 @@ d) a = int(input("Masukan bilangan : ")) input nilai a dengan tipe data integer
 e) if a == 0 : break jika inputan a diisi angka 0 maka break alias berhenti looping
 
 f) print("Bilangan terbesar adalah : ",max) print nilai terbesar, variabel max
+
+# flowchart
+
+![img](https://user-images.githubusercontent.com/43899133/52893530-d00cc580-31cf-11e9-9359-106996608278.png)
  
 # Syntax PYTHON
 
@@ -108,6 +112,10 @@ g) y+=1 masa bulan, tiap looping menambah 1
 h) print("laba bulan ke-", y ,"sebesar :", i ) print : y = ambil masa bulan, i = ambil dari data yg ada di dalam lb
 
 i) print("Total laba adalah :", sum) print total laba
+
+# flowchart
+
+![img](https://user-images.githubusercontent.com/43899133/52893531-d26f1f80-31cf-11e9-81f9-3af17a891615.png)
 
 # Syntax PYTHON
 
