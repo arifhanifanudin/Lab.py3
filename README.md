@@ -17,12 +17,15 @@ f) print("Selesai")
 # Syntax PYTHON
 
 print('Program Menampilkan Nilai Bilangan Acak Lebih < 0.5')
+
 print('')
 
 import random
 
 n = int(input("Masukan nilai N : "))
+
 for i in range(n) :
+
     a=random.uniform(0.0,0.5)
     print ("Data ke : ", i, "=> ", a)
     
@@ -51,15 +54,23 @@ f) print("Bilangan terbesar adalah : ",max) print nilai terbesar, variabel max
 # Syntax PYTHON
 
 print('|Program Menampilkan Bilangan Terbesar ')
+
 print('')
 
 a = 1
+
 max = 0
+
 while a != 0:
+
     if a > max:
+    
         max = a
+        
     a = int(input('Masukkan bilangan :'))
+    
     if a == 0:
+    
         break
 
 print(' Hasil Nilai Terbesar adalah :', max)
@@ -97,15 +108,23 @@ i) print("Total laba adalah :", sum) print total laba
 # Syntax PYTHON
 
 print('|Program Menampilkan Bilangan Terbesar ')
+
 print('')
 
 a = 1
+
 max = 0
+
 while a != 0:
+
     if a > max:
+    
         max = a
+        
     a = int(input('Masukkan bilangan :'))
+    
     if a == 0:
+    
         break
 
 print(' Hasil Nilai Terbesar adalah :', max)
