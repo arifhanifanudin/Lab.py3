@@ -14,6 +14,10 @@ e) print ("data ke : ", i, "=> ", a) print data ke : i = index looping a = angka
 
 f) print("Selesai") 
 
+# flowchart
+
+![img](https://user-images.githubusercontent.com/43899133/52893529-cc793e80-31cf-11e9-9c59-c11bd905c0d6.png)
+
 # Syntax PYTHON
 
 print('Program Menampilkan Nilai Bilangan Acak Lebih < 0.5')
